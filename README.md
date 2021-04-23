@@ -1,6 +1,7 @@
-## Namaste ,I'm Mitali Chauhan 👋
+# Namaste ,I'm Mitali Chauhan 👋
 
-
+## Just another Machine Learning , Data Science entusiast 💻
+ 
 
 
 - 📝 Working on Various Projects.
