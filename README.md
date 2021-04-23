@@ -1,4 +1,5 @@
-### Namaste ,I'm Mitali Chauhan 👋
+## Namaste ,I'm Mitali Chauhan 👋
+
 
 
 
@@ -8,5 +9,5 @@
 - 🤔 I’m looking for help with VelocityX documentation
 - 💬 Ask me about Java and Web Dev.
 - 🍄 i like using lowercase letters whenever i can
-- 
+
 
