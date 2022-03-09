@@ -1,4 +1,4 @@
-# Namaste ,I'm Mitali Chauhan 👋
+# Hello
 
 ### Just another Machine Learning , Data Science entusiast 💻
  
